@@ -6,4 +6,4 @@
 :HL["/tracuuphapluat-web/_next/static/chunks/2z6n87to7jsgq.css","style"]
 :HL["/tracuuphapluat-web/logo-vang.png","image"]
 1:[["children",{"s":"__PAGE__","h":128}]]
-0:{"b":"J81B3w4Zfdds21sr3oPxC","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"9x95QezkPlsGhnClzZzHL","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
