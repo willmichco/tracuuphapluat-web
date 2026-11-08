@@ -1,11 +1,12 @@
 {
- "serverMode": "chunked",
- "requestChunkSize": 4096,
- "databaseLengthBytes": 174596096,
- "serverChunkSize": 10485760,
- "urlPrefix": "danh-muc.sqlite.",
- "suffixLength": 3,
- "taoLuc": "2026-11-08T13:16:37",
+ "phienBan": "v20261108134302",
+ "taoLuc": "2026-11-08T13:43:02",
  "soDong": 388302,
- "soKhuc": 17
+ "soDongNguon": 388302,
+ "khoi": 64,
+ "soTuDien": 128,
+ "soSh": 256,
+ "cqDau": 1024,
+ "soTu": 39790,
+ "pBin": 7936601
 }
