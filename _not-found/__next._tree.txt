@@ -1,0 +1,5 @@
+:HL["/tracuuphapluat-web/_next/static/chunks/2bm9l-mh204g1.css","style"]
+:HL["/tracuuphapluat-web/logo-vang.png","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
+0:{"b":"FVZhkRhgNZ4XJ1dOsEvs3","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
